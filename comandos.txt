@@ -1,0 +1,82 @@
+    1  clear
+    2  ls -trl
+    3  df -k
+    4  pwd
+    5  ls -alte
+    6  clear
+    7  ls -trl
+    8  java -version
+    9  mvn
+   10  mvn -version
+   11  javac -version
+   12  vim
+   13  vim hola_mundo.class
+   14  ls -trl
+   15  javac hola_mundo.class
+   16  javac hola_mundo
+   17  ls -trl
+   18  mv hola_mundo.class hola_mundo.java
+   19  ls -trl
+   20  clear
+   21  ls -trl
+   22  javac hola_mundo.java
+   23  ls -trl
+   24  java hola_mundo
+   25  pwd
+   26  cd 
+   27  pwd
+   28  java hola_mundo
+   29  clear
+   30  ls -trl
+   31  clear
+   32  date
+   33  java hola_mundo
+   34  exit
+   35  sudo ls -ltr
+   36  clear
+   37  pwd
+   38  clear
+   39  pwd
+   40  clar
+   41  ls -trl
+   42  clear
+   43  phyton --version
+   44  python --version
+   45  python3 --version
+   46  sudo su -
+   47  exit
+   48  clear
+   49  ls -trl
+   50  sudo su -
+   51  pwd
+   52  ls -trl
+   53  git config --global user.email "cgarnica75@gmail.com"
+   54  git config -list
+   55  git config --list
+   56  mkdir newrepo
+   57  git config --global user "cgg"
+   58  git config --global user "cgarnica01"
+   59  git config --global user.name "cgarnica01"
+   60  git config --list
+   61  ls -trl
+   62  cd nerepo
+   63  cd newrepo
+   64  sl -trl
+   65  ls -trl
+   66  git remote add orig https://github.com/git init
+   67  echo "# cgg" >> README.md
+   68  git init
+   69  git add README.md
+   70  git commit -m "first commit"
+   71  git remote add origin https://github.com/cgarnica01/cgg.git
+   72  git push -u origin master
+   73  ls -trl
+   74  cat README.md
+   75  pwd
+   76  clear
+   77  ls -trl
+   78  pwd
+   79  git branch -a
+   80  git checkout -b comandos
+   81  git branch -a
+   82  history >> comandos.txt
